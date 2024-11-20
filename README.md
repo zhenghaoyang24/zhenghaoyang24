@@ -10,7 +10,7 @@ A front-end enthusiast and learner.
    
 ### Tech stack
 
-<picture><img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,c,vue,flutter,mysql"></picture>
+<picture><img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,c,vue,mysql"></picture>
 
 ### Tools I use
 
