@@ -6,15 +6,15 @@
 
 A front-end enthusiast and learner.
 
-[🌐 Website](https://hoeyzheng.top) • [📧 email](mailto:zhenghaoyang24@foxmail.com)   
+[🔗 Website](https://hoeyzheng.top) • [📧 email](mailto:zhenghaoyang24@foxmail.com)   
    
 ### Tech stack
 
-<picture><img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,c,vue,flutter"></picture>
+<picture><img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,c,vue,flutter,mysql"></picture>
 
 ### Tools I use
 
-<picture><img src="https://skillicons.dev/icons?i=webstorm,idea,vscode,webpack,vite,netlify,cloudflare,pnpm,npm,markdown"></picture>
+<picture><img src="https://skillicons.dev/icons?i=webstorm,vscode,idea,webpack,vite,netlify,cloudflare,pnpm,npm,markdown"></picture>
 
 <picture>
   <source
