@@ -7,8 +7,7 @@
 A front-end enthusiast and learner.
 
 [🌐 Website](https://hoeyzheng.top) · [📚 Blog](https://hoeyzheng.top/blog/) · [📇 Contact](mailto:zhenghaoyang24@foxmail.com) · 
-
-
+   
 ### Tech stack
 
 <picture><img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,c,vue,flutter"></picture>
@@ -19,17 +18,17 @@ A front-end enthusiast and learner.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zhenghaoyang24&show_icons=true&hide_border=true&line_height=24&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=zhenghaoyang24&show_icons=true&hide_border=true&line_height=24&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=zhenghaoyang24&show_icons=true&hide_border=true&line_height=24" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zhenghaoyang24&show_icons=true&hide_border=true&line_height=24&bg_color=#2374d, #cc5333" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenghaoyang24&layout=compact&hide_border=true&langs_count=8&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenghaoyang24&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenghaoyang24&layout=compact&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenghaoyang24&layout=compact&hide_border=true&langs_count=8"/>
 </picture>
 
 
