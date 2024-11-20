@@ -6,7 +6,7 @@
 
 A front-end enthusiast and learner.
 
-[🌐 Website](https://hoeyzheng.top)  [📧 email](mailto:zhenghaoyang24@foxmail.com)   
+[🌐 Website](https://hoeyzheng.top) • [📧 email](mailto:zhenghaoyang24@foxmail.com)   
    
 ### Tech stack
 
