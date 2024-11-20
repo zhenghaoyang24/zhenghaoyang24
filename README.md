@@ -25,7 +25,7 @@ A front-end enthusiast and learner.
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenghaoyang24&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenghaoyang24&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenghaoyang24&layout=compact&hide_border=true&langs_count=8"/>
