@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+pengzhanbo%F0%9F%91%8B)](https://git.io/typing-svg)
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=1FA9F7&width=435&lines=Hi!I'm+Zheng+Haoyang.%F0%9F%91%8F;You+can+call+me+Hoey.%F0%9F%98%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=70a5fd&width=435&lines=Hi!I'm+Zheng+Haoyang.%F0%9F%91%8F;You+can+call+me+Hoey.%F0%9F%98%80)](https://git.io/typing-svg)
 
 A front-end enthusiast and learner.
 
