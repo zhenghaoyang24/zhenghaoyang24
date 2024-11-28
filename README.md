@@ -10,7 +10,7 @@ A front-end enthusiast and learner.
    
 ### Tech stack
 
-<picture><img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,cpp,python,vue,mysql"></picture>
+<picture><img src="https://skillicons.dev/icons?i=vue,js,ts,scss,java,spring,maven,mysql,cpp,python"></picture>
 
 ### Tools I use
 
