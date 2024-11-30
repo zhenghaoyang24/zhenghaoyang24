@@ -10,11 +10,11 @@ A front-end enthusiast and learner.
    
 ### Tech stack
 
-<picture><img src="https://skillicons.dev/icons?i=vue,js,ts,scss,css,html,spring,mybatis,mysql"></picture>
+<picture><img src="https://skillicons.dev/icons?i=vue,js,ts,scss,css,html,spring,mysql"></picture>
 
 ### Tools I use
 
-<picture><img src="https://skillicons.dev/icons?i=webstorm,idea,vscode,maven,vite,netlify,cloudflare,pnpm,markdown"></picture>
+<picture><img src="https://skillicons.dev/icons?i=webstorm,idea,vscode,maven,vite,dbserve,netlify,cloudflare,pnpm,markdown"></picture>
 
 <picture>
   <source
