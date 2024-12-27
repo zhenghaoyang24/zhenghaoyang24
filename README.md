@@ -14,7 +14,7 @@ A front-end enthusiast and learner.
 
 ### Tools I use
 
-<picture><img src="https://skillicons.dev/icons?i=webstorm,vscode,idea,maven,vite,netlify,pnpm,markdown"></picture>
+<picture><img src="https://skillicons.dev/icons?i=webstorm,vscode,vite,idea,maven,netlify,pnpm,markdown"></picture>
 
 <picture>
   <source
