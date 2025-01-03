@@ -10,11 +10,11 @@ A front-end enthusiast and learner.
 
 ### Tech stack
 
-<picture><img src="https://skillicons.dev/icons?i=vue,js,ts,less,html,css,spring,mysql"></picture>
+![Skills](https://skills-icons.vercel.app/api/icons?i=vue,pinia,js,ts,less,html,css,spring,mysql)
 
 ### Tools I use
 
-<picture><img src="https://skillicons.dev/icons?i=webstorm,vscode,vite,idea,maven,netlify,pnpm,markdown"></picture>
+![Skills](https://skills-icons.vercel.app/api/icons?i=webstorm,vscode,vite,idea,maven,netlify,npm,pnpm,markdown,navicat)
 
 <picture>
   <source
