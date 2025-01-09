@@ -14,7 +14,7 @@ A front-end enthusiast and learner.
 
 ### Tools I use
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=webstorm,vscode,vite,idea,maven,netlify,npm,pnpm,markdown,navicat)
+![Skills](https://skills-icons.vercel.app/api/icons?i=vscode,webstorm,vite,idea,maven,netlify,npm,pnpm,markdown,navicat)
 
 <picture>
   <source
