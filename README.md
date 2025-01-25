@@ -28,12 +28,14 @@ A front-end enthusiast and learner.
 </picture>
 
 ### Some projects
-- 🎮 [webgames](https://github.com/zhenghaoyang24/webgames)：各种打开即可游玩的小游戏 / Ready-to-play mini games of various types .  
-- ℹ️ [Front-Resource](https://github.com/zhenghaoyang24/Front-Resource)：前端开发的各类资源 / Various resources for front-end development .  
-- ✒️ [mdeditor](https://github.com/zhenghaoyang24/mdeditor)：极简的 markdown 在线编辑器 / A minimalist online Markdown editor .
-- 🧠 [vocabverse](https://github.com/zhenghaoyang24/vocabverse)：单词记忆 Web 应用  / A web application for vocabulary memorization .
-- 🌳 [filetree](https://github.com/zhenghaoyang24/filetree)：根据本地文件夹生成文件树 / Generate a file tree based on a local directory .
-- 🏠 [reposhub](https://github.com/zhenghaoyang24/reposhub)：开源仓库集合 / A collection of open-source repositories .
-- 📱 [blueblue-words](https://github.com/zhenghaoyang24/blueblue-words)：简易记单词小程序 / A simple vocabulary memorization mini-program .
-- ☑️ [you-todo](https://github.com/zhenghaoyang24/you-todo)：简洁易用的待办事项管理应用 / A simple and user-friendly to-do management application .
+
+- 🧠 [vocabverse](https://github.com/zhenghaoyang24/vocabverse)：完整的单词记忆 Web 应用，AI 助学。 / Complete vocabulary memorization web application, AI-assisted learning.
+- 🎮 [webgames](https://github.com/zhenghaoyang24/webgames)：各种打开即可游玩的小游戏。 / Ready-to-play mini games of various types.
+- ☑️ [you-todo](https://github.com/zhenghaoyang24/you-todo)：简洁易用的待办事项应用，日历视图。 / A straightforward and easy-to-use to-do application featuring a calendar view.
+- ℹ️ [Front-Resource](https://github.com/zhenghaoyang24/Front-Resource)：收集前端开发的各类资源。 / Various resources for front-end development .
+- 🏠 [reposhub](https://github.com/zhenghaoyang24/reposhub)：开源仓库集合，分类仓库。 / Open-source repository collection, categorized repositories.
+- ✒️ [mdeditor](https://github.com/zhenghaoyang24/mdeditor)：极简的 markdown 在线编辑器。 / A minimalist online Markdown editor.
+- 🌳 [filetree](https://github.com/zhenghaoyang24/filetree)：根据本地文件夹生成文件树。 / Generate a file tree based on a local directory.
+- 📱 [blueblue-words](https://github.com/zhenghaoyang24/blueblue-words)：简易记单词小程序。 / A simple vocabulary memorization mini-program.
+
 
