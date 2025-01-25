@@ -31,7 +31,7 @@ A front-end enthusiast and learner.
 
 - 🧠 [vocabverse](https://github.com/zhenghaoyang24/vocabverse)：完整的单词记忆 Web 应用，AI 助学。 / Complete vocabulary memorization web application, AI-assisted learning.
 - 🎮 [webgames](https://github.com/zhenghaoyang24/webgames)：各种打开即可游玩的小游戏。 / Ready-to-play mini games of various types.
-- ☑️ [you-todo](https://github.com/zhenghaoyang24/you-todo)：简洁易用的待办事项应用，日历视图。 / A straightforward and easy-to-use to-do application featuring a calendar view.
+- ☑️ [you-todo](https://github.com/zhenghaoyang24/you-todo)：简洁易用的日程待办应用。 / A clean and user-friendly schedule and to-do web app.
 - ℹ️ [Front-Resource](https://github.com/zhenghaoyang24/Front-Resource)：收集前端开发的各类资源。 / Various resources for front-end development .
 - 🏠 [reposhub](https://github.com/zhenghaoyang24/reposhub)：开源仓库集合，分类仓库。 / Open-source repository collection, categorized repositories.
 - ✒️ [mdeditor](https://github.com/zhenghaoyang24/mdeditor)：极简的 markdown 在线编辑器。 / A minimalist online Markdown editor.
