@@ -2,7 +2,7 @@
 
 A front-end enthusiast and learner.
 
-<a href="https://zhenghaoyang.cn" target="_blank">🔗 blog</a> • [📧 email](mailto:zhenghaoyang24@foxmail.com)   
+<a href="https://www.zhenghaoyang.cn" target="_blank">🔗 blog</a> • [📧 email](mailto:zhenghaoyang24@foxmail.com)   
 
 ### Tech stack
 
