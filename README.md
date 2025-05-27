@@ -10,7 +10,7 @@ A front-end enthusiast and learner.
 
 ### Tools I use
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=webstorm,vscode,androidstudio,idea,navicat,pnpm,maven,netlify,vercel,markdown)
+![Skills](https://skills-icons.vercel.app/api/icons?i=webstorm,vscode,androidstudio,idea,navicat,pnpm,maven,netlify,vercel,postman)
 
 <picture>
   <source
