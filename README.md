@@ -6,11 +6,11 @@ A front-end enthusiast and learner.
 
 ### Tech stack
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=vue,pinia,js,ts,nodejs,less,html,css,kotlin,java,spring,mysql)
+![Skills](https://skills-icons.vercel.app/api/icons?i=vue,pinia,ts,nodejs,less,express,nestjs,spring,mysql)
 
 ### Tools I use
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=webstorm,vscode,androidstudio,idea,navicat,pnpm,maven,netlify,vercel,apifox)
+![Skills](https://skills-icons.vercel.app/api/icons?i=webstorm,vscode,idea,navicat,pnpm,maven,vercel,apifox)
 
 <picture>
   <source
