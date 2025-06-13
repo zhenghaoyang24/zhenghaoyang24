@@ -12,20 +12,7 @@ A front-end enthusiast and learner.
 
 ![Skills](https://skills-icons.vercel.app/api/icons?i=webstorm,vscode,idea,navicat,pnpm,maven,vercel,apifox)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zhenghaoyang24&show_icons=true&hide_border=true&line_height=24&theme=tokyonight&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=zhenghaoyang24&show_icons=true&hide_border=true&line_height=24&bg_color=#2374d, #cc5333" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenghaoyang24&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenghaoyang24&layout=compact&hide_border=true&langs_count=8"/>
-</picture>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### Some projects
 
