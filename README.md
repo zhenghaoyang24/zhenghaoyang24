@@ -10,7 +10,7 @@ A front-end enthusiast and learner.
 
 ### Tools I use
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=webstorm,vscode,idea,navicat,pnpm,maven,vercel,apifox)
+![Skills](https://skills-icons.vercel.app/api/icons?i=vscode,webstorm,idea,navicat,pnpm,maven,vercel,apifox)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
