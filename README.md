@@ -10,7 +10,7 @@ A front-end enthusiast and learner.
 
 ### Tools I use
 
-![Skills](https://skills.syvixor.com/api/icons?i=vscode,vite,git,pnpm,vuepress,vitepress,vercel,cloudflare)
+![Skills](https://skills.syvixor.com/api/icons?i=vscode,git,pnpm,chatgpt, vuepress,vitepress,vercel,cloudflare)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
