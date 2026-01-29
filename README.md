@@ -6,7 +6,7 @@ A front-end enthusiast and learner.
 
 ### Tech stack
 
-![Skills](https://skills.syvixor.com/api/icons?i=js,ts,less,vue,react,express)
+![Skills](https://skills.syvixor.com/api/icons?i=js,ts,vue,react)
 
 ### Tools I use
 
