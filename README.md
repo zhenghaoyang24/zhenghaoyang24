@@ -20,3 +20,4 @@ A front-end enthusiast and learner.
 - 📱 [inputword](https://github.com/zhenghaoyang24/inputword): 带服务端的单词记忆小程序。 / Word Memory Mini Program with Server Side.
 - 🧠 [vocabverse](https://github.com/zhenghaoyang24/vocabverse)：基于SM2算法的单词记忆 Web 应用。 / Complete vocabulary memorization web application.
 - ☑️ [you-todo](https://github.com/zhenghaoyang24/you-todo)：简洁易用的日程待办 Web 应用。 / A clean and user-friendly schedule and to-do web app.
+- 🌲 [filetree](https://github.com/zhenghaoyang24/filetree): 根据本地文件夹生成文件树，导出文件结构。 / Generate a file tree from local files and export the file structure.
