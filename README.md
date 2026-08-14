@@ -16,6 +16,7 @@ A front-end enthusiast and learner.
 
 ### Some projects
 
+- 🤖 [dsh-desktop](https://github.com/zhenghaoyang24/dsh-desktop): DeepSeek Harness 桌面端。/ DeepSeek Harness desktop.
 - 💻 [cli-home](https://github.com/zhenghaoyang24/cli-home)：一个还算好看的终端式浏览器主页。/A fairly decent terminal-based browser homepage.
 - 📘 [english-vocabulary](https://github.com/zhenghaoyang24/english-vocabulary): 10万+单词，20万+例句。 / 100,000+ words, 200,000+ example sentences.  
 - 📱 [inputword](https://github.com/zhenghaoyang24/inputword): 带服务端的单词记忆小程序。 / Word Memory Mini Program with Server Side.
